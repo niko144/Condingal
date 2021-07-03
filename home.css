@@ -30,7 +30,7 @@ span {
 }
 
 .home {
-    background-image: url(../html/wave.gif);
+    background-image: url(wave.gif);
     height: 900px;
     background-size: cover;
 }
@@ -128,7 +128,7 @@ btn {
     border-top: 0;
 }
 .footer {
-    background-image: url(../html/waze3.gif);
+    background-image: url(waze3.gif);
     height: 400px;
     background-size: cover;
 }
